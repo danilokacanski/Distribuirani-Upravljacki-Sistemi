@@ -1,0 +1,36 @@
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\DemoModel.exe
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\Quickstarts.ReferenceServer.Config.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\DemoModel.deps.json
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\DemoModel.runtimeconfig.json
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\DemoModel.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\DemoModel.pdb
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.csproj.AssemblyReference.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.AssemblyInfoInputs.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.AssemblyInfo.cs
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.csproj.CoreCompileInputs.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.sourcelink.json
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.csproj.Up2Date
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\refint\DemoModel.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.pdb
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.genruntimeconfig.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\ref\DemoModel.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\DemoModel.exe
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\Quickstarts.ReferenceServer.Config.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\DemoModel.deps.json
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\DemoModel.runtimeconfig.json
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\DemoModel.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\DemoModel\net8.0\DemoModel.pdb
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.csproj.AssemblyReference.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.AssemblyInfoInputs.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.AssemblyInfo.cs
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.csproj.CoreCompileInputs.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.sourcelink.json
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.csproj.Up2Date
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\refint\DemoModel.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.pdb
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\DemoModel.genruntimeconfig.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\DemoModel\net8.0\ref\DemoModel.dll

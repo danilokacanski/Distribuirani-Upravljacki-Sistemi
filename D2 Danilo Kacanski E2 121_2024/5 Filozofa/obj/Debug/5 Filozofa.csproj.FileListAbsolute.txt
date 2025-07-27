@@ -1,0 +1,14 @@
+C:\Users\Korisnik\source\repos\5 Filozofa\bin\Debug\5 Filozofa.exe.config
+C:\Users\Korisnik\source\repos\5 Filozofa\bin\Debug\5 Filozofa.exe
+C:\Users\Korisnik\source\repos\5 Filozofa\bin\Debug\5 Filozofa.pdb
+C:\Users\Korisnik\source\repos\5 Filozofa\obj\Debug\5 Filozofa.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\5 Filozofa\obj\Debug\5 Filozofa.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\5 Filozofa\obj\Debug\5 Filozofa.exe
+C:\Users\Korisnik\source\repos\5 Filozofa\obj\Debug\5 Filozofa.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D2 Danilo Kacanski E2 121_2024\5 Filozofa\bin\Debug\5 Filozofa.exe.config
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D2 Danilo Kacanski E2 121_2024\5 Filozofa\bin\Debug\5 Filozofa.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D2 Danilo Kacanski E2 121_2024\5 Filozofa\bin\Debug\5 Filozofa.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D2 Danilo Kacanski E2 121_2024\5 Filozofa\obj\Debug\5 Filozofa.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D2 Danilo Kacanski E2 121_2024\5 Filozofa\obj\Debug\5 Filozofa.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D2 Danilo Kacanski E2 121_2024\5 Filozofa\obj\Debug\5 Filozofa.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D2 Danilo Kacanski E2 121_2024\5 Filozofa\obj\Debug\5 Filozofa.pdb

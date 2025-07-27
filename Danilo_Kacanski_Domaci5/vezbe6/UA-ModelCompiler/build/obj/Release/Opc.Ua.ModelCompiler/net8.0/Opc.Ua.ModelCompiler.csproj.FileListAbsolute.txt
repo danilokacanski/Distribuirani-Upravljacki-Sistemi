@@ -1,0 +1,36 @@
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.exe
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.dll.config
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.deps.json
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.runtimeconfig.json
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.pdb
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.csproj.AssemblyReference.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.AssemblyInfoInputs.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.AssemblyInfo.cs
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.csproj.CoreCompileInputs.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.sourcelink.json
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.M.51D1A291.Up2Date
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\refint\Opc.Ua.ModelCompiler.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.pdb
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.genruntimeconfig.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\ref\Opc.Ua.ModelCompiler.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.exe
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.dll.config
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.deps.json
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.runtimeconfig.json
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\bin\Release\net8.0\Opc.Ua.ModelCompiler.pdb
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.csproj.AssemblyReference.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.AssemblyInfoInputs.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.AssemblyInfo.cs
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.csproj.CoreCompileInputs.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.sourcelink.json
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.M.51D1A291.Up2Date
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\refint\Opc.Ua.ModelCompiler.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.pdb
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\Opc.Ua.ModelCompiler.genruntimeconfig.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler\net8.0\ref\Opc.Ua.ModelCompiler.dll

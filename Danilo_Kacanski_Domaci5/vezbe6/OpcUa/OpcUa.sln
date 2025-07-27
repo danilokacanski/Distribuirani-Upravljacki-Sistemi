@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpcUa", "OpcUa.csproj", "{CDABEE96-D7E6-4E05-BE2F-FC1B5B13BA01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchPlantWPF", "..\BatchPlantWPF\BatchPlantWPF.csproj", "{4CF42A1F-EC01-44EA-9322-62710E581778}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDABEE96-D7E6-4E05-BE2F-FC1B5B13BA01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDABEE96-D7E6-4E05-BE2F-FC1B5B13BA01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDABEE96-D7E6-4E05-BE2F-FC1B5B13BA01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDABEE96-D7E6-4E05-BE2F-FC1B5B13BA01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CF42A1F-EC01-44EA-9322-62710E581778}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CF42A1F-EC01-44EA-9322-62710E581778}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CF42A1F-EC01-44EA-9322-62710E581778}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CF42A1F-EC01-44EA-9322-62710E581778}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20C2895F-AA28-4C2E-A33B-A1E96447C0C6}
+	EndGlobalSection
+EndGlobal

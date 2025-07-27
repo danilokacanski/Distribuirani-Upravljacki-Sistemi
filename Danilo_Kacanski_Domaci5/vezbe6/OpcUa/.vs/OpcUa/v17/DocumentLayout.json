@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\OpcUa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF42A1F-EC01-44EA-9322-62710E581778}|..\\BatchPlantWPF\\BatchPlantWPF.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\danilo_kacanski_domaci5\\vezbe6\\batchplantwpf\\batchplantnodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDABEE96-D7E6-4E05-BE2F-FC1B5B13BA01}|OpcUa.csproj|C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\OpcUa\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{CDABEE96-D7E6-4E05-BE2F-FC1B5B13BA01}|OpcUa.csproj|solutionrelative:xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF42A1F-EC01-44EA-9322-62710E581778}|..\\BatchPlantWPF\\BatchPlantWPF.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\danilo_kacanski_domaci5\\vezbe6\\batchplantwpf\\batchplant.nodeids.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF42A1F-EC01-44EA-9322-62710E581778}|..\\BatchPlantWPF\\BatchPlantWPF.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\danilo_kacanski_domaci5\\vezbe6\\batchplantwpf\\batchplant.nodeids.permissions.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF42A1F-EC01-44EA-9322-62710E581778}|..\\BatchPlantWPF\\BatchPlantWPF.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\danilo_kacanski_domaci5\\vezbe6\\batchplantwpf\\batchplantserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF42A1F-EC01-44EA-9322-62710E581778}|..\\BatchPlantWPF\\BatchPlantWPF.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\danilo_kacanski_domaci5\\vezbe6\\batchplantwpf\\batchplant.classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF42A1F-EC01-44EA-9322-62710E581778}|..\\BatchPlantWPF\\BatchPlantWPF.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\danilo_kacanski_domaci5\\vezbe6\\batchplantwpf\\batchplant.constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CF42A1F-EC01-44EA-9322-62710E581778}|..\\BatchPlantWPF\\BatchPlantWPF.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\danilo_kacanski_domaci5\\vezbe6\\batchplantwpf\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ivancica\\Desktop\\faks\\DUS\\vezbe6\\BatchPlantWPF\\BatchPlantServerConfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 125,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BatchPlantServer.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlantServer.cs",
+              "RelativeDocumentMoniker": "..\\BatchPlantWPF\\BatchPlantServer.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlantServer.cs",
+              "RelativeToolTip": "..\\BatchPlantWPF\\BatchPlantServer.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAArwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:32:22.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BatchPlant.Classes.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlant.Classes.cs",
+              "RelativeDocumentMoniker": "..\\BatchPlantWPF\\BatchPlant.Classes.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlant.Classes.cs",
+              "RelativeToolTip": "..\\BatchPlantWPF\\BatchPlant.Classes.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAnwG8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:32:02.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BatchPlant.Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlant.Constants.cs",
+              "RelativeDocumentMoniker": "..\\BatchPlantWPF\\BatchPlant.Constants.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlant.Constants.cs",
+              "RelativeToolTip": "..\\BatchPlantWPF\\BatchPlant.Constants.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:31:59.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "..\\BatchPlantWPF\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "..\\BatchPlantWPF\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:31:50.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BatchPlantNodeManager.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlantNodeManager.cs",
+              "RelativeDocumentMoniker": "..\\BatchPlantWPF\\BatchPlantNodeManager.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlantNodeManager.cs",
+              "RelativeToolTip": "..\\BatchPlantWPF\\BatchPlantNodeManager.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAIwHIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-17T13:24:34.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BatchPlant.NodeIds.csv",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlant.NodeIds.csv",
+              "RelativeDocumentMoniker": "..\\BatchPlantWPF\\BatchPlant.NodeIds.csv",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlant.NodeIds.csv",
+              "RelativeToolTip": "..\\BatchPlantWPF\\BatchPlant.NodeIds.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-12-17T13:24:25.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BatchPlant.NodeIds.permissions.csv",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlant.NodeIds.permissions.csv",
+              "RelativeDocumentMoniker": "..\\BatchPlantWPF\\BatchPlant.NodeIds.permissions.csv",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\BatchPlantWPF\\BatchPlant.NodeIds.permissions.csv",
+              "RelativeToolTip": "..\\BatchPlantWPF\\BatchPlant.NodeIds.permissions.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-12-17T13:24:24.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\OpcUa\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "XMLFile1.xml",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Danilo_Kacanski_Domaci5\\vezbe6\\OpcUa\\XMLFile1.xml",
+              "RelativeToolTip": "XMLFile1.xml",
+              "ViewState": "AQIAAI8BAAAAAAAAAAAAAGEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-12-17T13:21:31.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BatchPlantServerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Ivancica\\Desktop\\faks\\DUS\\vezbe6\\BatchPlantWPF\\BatchPlantServerConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Ivancica\\Desktop\\faks\\DUS\\vezbe6\\BatchPlantWPF\\BatchPlantServerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Ivancica\\Desktop\\faks\\DUS\\vezbe6\\BatchPlantWPF\\BatchPlantServerConfiguration.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Ivancica\\Desktop\\faks\\DUS\\vezbe6\\BatchPlantWPF\\BatchPlantServerConfiguration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T21:13:50.082Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

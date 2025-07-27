@@ -1,0 +1,14 @@
+C:\Users\Nenad\Desktop\drus-projekat\Wcf\WcfService\bin\WcfService.dll.config
+C:\Users\Nenad\Desktop\drus-projekat\Wcf\WcfService\bin\WcfService.dll
+C:\Users\Nenad\Desktop\drus-projekat\Wcf\WcfService\bin\WcfService.pdb
+C:\Users\Nenad\Desktop\drus-projekat\Wcf\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+C:\Users\Nenad\Desktop\drus-projekat\Wcf\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\Nenad\Desktop\drus-projekat\Wcf\WcfService\obj\Debug\WcfService.dll
+C:\Users\Nenad\Desktop\drus-projekat\Wcf\WcfService\obj\Debug\WcfService.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfService\bin\WcfService.dll.config
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfService\bin\WcfService.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfService\bin\WcfService.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfService\obj\Debug\WcfService.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfService\obj\Debug\WcfService.pdb

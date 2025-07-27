@@ -1,0 +1,156 @@
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\BatchPlantWPF.exe.config
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\BatchPlantWPF.exe
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\BatchPlantWPF.pdb
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Client.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Configuration.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Core.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Client.Common.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Server.Common.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Security.Certificates.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Server.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Buffers.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Formats.Asn1.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Memory.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.ValueTuple.dll
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Client.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Configuration.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Core.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Client.Common.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Server.Common.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Security.Certificates.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Server.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Buffers.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Formats.Asn1.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Memory.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\bin\Release\System.ValueTuple.xml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.csproj.AssemblyReference.cache
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\MainWindow.g.cs
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\App.g.cs
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF_MarkupCompile.cache
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF_MarkupCompile.lref
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\MainWindow.baml
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.g.resources
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.Properties.Resources.resources
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.csproj.GenerateResource.cache
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.csproj.CoreCompileInputs.cache
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\BatchPla.09B62B37.Up2Date
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.exe
+C:\Users\Ivancica\Desktop\faks\DUS\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.pdb
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\BatchPlantWPF.exe.config
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\BatchPlantWPF.exe
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\BatchPlantWPF.pdb
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Client.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Configuration.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Core.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Client.Common.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Server.Common.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Security.Certificates.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Server.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Buffers.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Formats.Asn1.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Memory.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Numerics.Vectors.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.ValueTuple.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Client.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Configuration.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Core.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Client.Common.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Server.Common.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Security.Certificates.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Server.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Buffers.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Formats.Asn1.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Memory.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Numerics.Vectors.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Release\System.ValueTuple.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.csproj.AssemblyReference.cache
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\MainWindow.g.cs
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\App.g.cs
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF_MarkupCompile.cache
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF_MarkupCompile.lref
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\MainWindow.baml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.g.resources
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.Properties.Resources.resources
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.csproj.GenerateResource.cache
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.csproj.CoreCompileInputs.cache
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\BatchPla.09B62B37.Up2Date
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.exe
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\BatchPlantWPF.exe.config
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\BatchPlantWPF.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\BatchPlantWPF.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\BouncyCastle.Cryptography.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Bcl.HashCode.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Newtonsoft.Json.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Client.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Configuration.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Core.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Client.Common.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Server.Common.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Security.Certificates.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Server.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Buffers.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Formats.Asn1.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Memory.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.ValueTuple.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\BouncyCastle.Cryptography.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Bcl.HashCode.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Newtonsoft.Json.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Client.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Configuration.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Core.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Client.Common.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Gds.Server.Common.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Security.Certificates.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\Opc.Ua.Server.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Buffers.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Formats.Asn1.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Memory.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\bin\Release\System.ValueTuple.xml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\MainWindow.g.cs
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\App.g.cs
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF_MarkupCompile.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF_MarkupCompile.lref
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\MainWindow.baml
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.g.resources
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.Properties.Resources.resources
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.csproj.GenerateResource.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\BatchPla.09B62B37.Up2Date
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Danilo_Kacanski_Domaci5\vezbe6\BatchPlantWPF\obj\Release\BatchPlantWPF.pdb

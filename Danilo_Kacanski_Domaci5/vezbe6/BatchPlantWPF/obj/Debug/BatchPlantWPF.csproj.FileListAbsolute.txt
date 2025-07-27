@@ -1,0 +1,156 @@
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\BatchPlantWPF.exe.config
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\BatchPlantWPF.exe
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\BatchPlantWPF.pdb
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Client.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Core.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Security.Certificates.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Server.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Buffers.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Formats.Asn1.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Memory.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Client.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Configuration.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Core.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Client.Common.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Server.Common.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Security.Certificates.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Server.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Buffers.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Formats.Asn1.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Memory.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.ValueTuple.xml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.csproj.AssemblyReference.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\MainWindow.g.cs
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\App.g.cs
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF_MarkupCompile.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF_MarkupCompile.lref
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\MainWindow.baml
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.g.resources
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.Properties.Resources.resources
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.csproj.GenerateResource.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.csproj.CoreCompileInputs.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPla.09B62B37.Up2Date
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.exe
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.pdb
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\BatchPlantWPF.exe.config
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\BatchPlantWPF.exe
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\BatchPlantWPF.pdb
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Client.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Core.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Security.Certificates.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Server.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Buffers.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Formats.Asn1.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Memory.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Client.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Configuration.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Core.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Client.Common.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Server.Common.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Security.Certificates.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Server.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Buffers.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Formats.Asn1.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Memory.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\bin\Debug\System.ValueTuple.xml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.csproj.AssemblyReference.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\MainWindow.g.cs
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\App.g.cs
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF_MarkupCompile.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF_MarkupCompile.lref
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\MainWindow.baml
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.g.resources
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.Properties.Resources.resources
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.csproj.GenerateResource.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.csproj.CoreCompileInputs.cache
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPla.09B62B37.Up2Date
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.exe
+C:\Users\TehnoCentar\Documents\01-DRUS\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.pdb
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\BatchPlantWPF.exe.config
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\BatchPlantWPF.exe
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\BatchPlantWPF.pdb
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Newtonsoft.Json.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Client.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Configuration.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Core.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Client.Common.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Server.Common.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Security.Certificates.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Server.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Buffers.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Formats.Asn1.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Memory.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.ValueTuple.dll
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Newtonsoft.Json.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Client.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Configuration.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Core.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Client.Common.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Gds.Server.Common.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Security.Certificates.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\Opc.Ua.Server.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Buffers.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Formats.Asn1.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Memory.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\bin\Debug\System.ValueTuple.xml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.csproj.AssemblyReference.cache
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\MainWindow.g.cs
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\App.g.cs
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF_MarkupCompile.cache
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF_MarkupCompile.lref
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\MainWindow.baml
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.g.resources
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.Properties.Resources.resources
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.csproj.GenerateResource.cache
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.csproj.CoreCompileInputs.cache
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\BatchPla.09B62B37.Up2Date
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.exe
+C:\Users\neso\Desktop\vezbe6\BatchPlantWPF\obj\Debug\BatchPlantWPF.pdb

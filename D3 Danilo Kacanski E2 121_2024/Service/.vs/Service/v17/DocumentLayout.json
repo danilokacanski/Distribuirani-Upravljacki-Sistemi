@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7566FD1-6028-47CF-B449-AF0F0F320643}|Service\\Service.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\d3 danilo kacanski e2 121_2024\\service\\service\\service.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7566FD1-6028-47CF-B449-AF0F0F320643}|Service\\Service.csproj|solutionrelative:service\\service.svc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7566FD1-6028-47CF-B449-AF0F0F320643}|Service\\Service.csproj|C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7566FD1-6028-47CF-B449-AF0F0F320643}|Service\\Service.csproj|solutionrelative:service\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB593DAC-E9B5-41C3-B39B-019EB5F7D3C9}|LotoMachine\\LotoMachine.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\d3 danilo kacanski e2 121_2024\\service\\lotomachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB593DAC-E9B5-41C3-B39B-019EB5F7D3C9}|LotoMachine\\LotoMachine.csproj|solutionrelative:lotomachine\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AF223A-1B45-47D6-A23E-8C9F244B68FA}|Client\\Client.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\d3 danilo kacanski e2 121_2024\\service\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AF223A-1B45-47D6-A23E-8C9F244B68FA}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AF223A-1B45-47D6-A23E-8C9F244B68FA}|Client\\Client.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\d3 danilo kacanski e2 121_2024\\service\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{63AF223A-1B45-47D6-A23E-8C9F244B68FA}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB593DAC-E9B5-41C3-B39B-019EB5F7D3C9}|LotoMachine\\Loto.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\d3 danilo kacanski e2 121_2024\\service\\lotomachine\\loto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DB593DAC-E9B5-41C3-B39B-019EB5F7D3C9}|LotoMachine\\Loto.csproj|solutionrelative:lotomachine\\loto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7566FD1-6028-47CF-B449-AF0F0F320643}|Service\\Service.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\d3 danilo kacanski e2 121_2024\\service\\service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A7566FD1-6028-47CF-B449-AF0F0F320643}|Service\\Service.csproj|solutionrelative:service\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB593DAC-E9B5-41C3-B39B-019EB5F7D3C9}|LotoMachine\\LotoMachine.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\d3 danilo kacanski e2 121_2024\\service\\lotomachine\\connected services\\servicereference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB593DAC-E9B5-41C3-B39B-019EB5F7D3C9}|LotoMachine\\LotoMachine.csproj|solutionrelative:lotomachine\\connected services\\servicereference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63AF223A-1B45-47D6-A23E-8C9F244B68FA}|Client\\Client.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\d3 danilo kacanski e2 121_2024\\service\\client\\connected services\\servicereference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63AF223A-1B45-47D6-A23E-8C9F244B68FA}|Client\\Client.csproj|solutionrelative:client\\connected services\\servicereference\\reference.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T17:37:38.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Loto.csproj",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\LotoMachine\\Loto.csproj",
+              "RelativeDocumentMoniker": "LotoMachine\\Loto.csproj",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\LotoMachine\\Loto.csproj",
+              "RelativeToolTip": "LotoMachine\\Loto.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-15T17:36:18.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\LotoMachine\\Connected Services\\ServiceReference\\Reference.cs",
+              "RelativeDocumentMoniker": "LotoMachine\\Connected Services\\ServiceReference\\Reference.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\LotoMachine\\Connected Services\\ServiceReference\\Reference.cs",
+              "RelativeToolTip": "LotoMachine\\Connected Services\\ServiceReference\\Reference.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:53:50.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Service\\Web.config",
+              "RelativeDocumentMoniker": "Service\\Web.config",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Service\\Web.config",
+              "RelativeToolTip": "Service\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-15T16:32:31.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reference.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Client\\Connected Services\\ServiceReference\\Reference.cs",
+              "RelativeDocumentMoniker": "Client\\Connected Services\\ServiceReference\\Reference.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Client\\Connected Services\\ServiceReference\\Reference.cs",
+              "RelativeToolTip": "Client\\Connected Services\\ServiceReference\\Reference.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:31:44.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Service.svc.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Service\\Service.svc.cs",
+              "RelativeDocumentMoniker": "Service\\Service.svc.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Service\\Service.svc.cs",
+              "RelativeToolTip": "Service\\Service.svc.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:51:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Service\\IService.cs",
+              "RelativeDocumentMoniker": "Service\\IService.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Service\\IService.cs",
+              "RelativeToolTip": "Service\\IService.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:51:27.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\LotoMachine\\Program.cs",
+              "RelativeDocumentMoniker": "LotoMachine\\Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\LotoMachine\\Program.cs",
+              "RelativeToolTip": "LotoMachine\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:51:14.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\D3 Danilo Kacanski E2 121_2024\\Service\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwFkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T13:46:05.67Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

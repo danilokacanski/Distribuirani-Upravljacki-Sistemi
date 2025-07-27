@@ -1,0 +1,10 @@
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D3 Danilo Kacanski E2 121_2024\Service\LotoMachine\bin\Debug\net472\Loto.exe.config
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D3 Danilo Kacanski E2 121_2024\Service\LotoMachine\bin\Debug\net472\Loto.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D3 Danilo Kacanski E2 121_2024\Service\LotoMachine\bin\Debug\net472\Loto.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D3 Danilo Kacanski E2 121_2024\Service\LotoMachine\obj\Debug\net472\Loto.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D3 Danilo Kacanski E2 121_2024\Service\LotoMachine\obj\Debug\net472\Loto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D3 Danilo Kacanski E2 121_2024\Service\LotoMachine\obj\Debug\net472\Loto.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D3 Danilo Kacanski E2 121_2024\Service\LotoMachine\obj\Debug\net472\Loto.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D3 Danilo Kacanski E2 121_2024\Service\LotoMachine\obj\Debug\net472\Loto.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D3 Danilo Kacanski E2 121_2024\Service\LotoMachine\obj\Debug\net472\Loto.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D3 Danilo Kacanski E2 121_2024\Service\LotoMachine\obj\Debug\net472\Loto.pdb

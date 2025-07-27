@@ -1,0 +1,14 @@
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe3\vezbe3\PubSubApp\bin\PubSubApp.dll.config
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe3\vezbe3\PubSubApp\bin\PubSubApp.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe3\vezbe3\PubSubApp\bin\PubSubApp.pdb
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe3\vezbe3\PubSubApp\obj\Debug\PubSubApp.csproj.AssemblyReference.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe3\vezbe3\PubSubApp\obj\Debug\PubSubApp.csproj.CoreCompileInputs.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe3\vezbe3\PubSubApp\obj\Debug\PubSubApp.dll
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe3\vezbe3\PubSubApp\obj\Debug\PubSubApp.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\PubSubApp\bin\PubSubApp.dll.config
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\PubSubApp\bin\PubSubApp.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\PubSubApp\bin\PubSubApp.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\PubSubApp\obj\Debug\PubSubApp.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\PubSubApp\obj\Debug\PubSubApp.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\PubSubApp\obj\Debug\PubSubApp.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\PubSubApp\obj\Debug\PubSubApp.pdb

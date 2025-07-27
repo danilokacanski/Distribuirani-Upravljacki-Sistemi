@@ -1,0 +1,7 @@
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D1\Domaci 1\bin\Debug\Domaci 1.exe.config
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D1\Domaci 1\bin\Debug\Domaci 1.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D1\Domaci 1\bin\Debug\Domaci 1.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D1\Domaci 1\obj\Debug\Domaci 1.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D1\Domaci 1\obj\Debug\Domaci 1.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D1\Domaci 1\obj\Debug\Domaci 1.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\D1\Domaci 1\obj\Debug\Domaci 1.pdb

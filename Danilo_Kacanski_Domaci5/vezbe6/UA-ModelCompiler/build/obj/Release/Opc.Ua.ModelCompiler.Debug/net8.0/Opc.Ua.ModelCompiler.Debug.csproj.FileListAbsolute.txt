@@ -1,0 +1,6 @@
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler.Debug\net8.0\Opc.Ua.ModelCompiler.Debug.csproj.AssemblyReference.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler.Debug\net8.0\Opc.Ua.ModelCompiler.Debug.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler.Debug\net8.0\Opc.Ua.ModelCompiler.Debug.AssemblyInfoInputs.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler.Debug\net8.0\Opc.Ua.ModelCompiler.Debug.AssemblyInfo.cs
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler.Debug\net8.0\Opc.Ua.ModelCompiler.Debug.csproj.CoreCompileInputs.cache
+C:\Users\TehnoCentar\Documents\01 DRUS\vezbe6 - opc ua server\UA-ModelCompiler\build\obj\Release\Opc.Ua.ModelCompiler.Debug\net8.0\Opc.Ua.ModelCompiler.Debug.sourcelink.json

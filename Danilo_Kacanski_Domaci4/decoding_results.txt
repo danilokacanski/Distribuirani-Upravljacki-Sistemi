@@ -1,0 +1,1 @@
+Successfully decoded with utf-8: Криптована порука на ћирилици.
