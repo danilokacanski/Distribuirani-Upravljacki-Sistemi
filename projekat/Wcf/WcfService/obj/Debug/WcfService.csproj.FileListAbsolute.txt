@@ -12,3 +12,10 @@ C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\p
 C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
 C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfService\obj\Debug\WcfService.dll
 C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfService\obj\Debug\WcfService.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfService\bin\WcfService.dll.config
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfService\bin\WcfService.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfService\bin\WcfService.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfService\obj\Debug\WcfService.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfService\obj\Debug\WcfService.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfService\obj\Debug\WcfService.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfService\obj\Debug\WcfService.pdb

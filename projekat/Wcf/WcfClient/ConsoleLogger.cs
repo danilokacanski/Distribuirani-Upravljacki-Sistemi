@@ -1,9 +1,11 @@
 ﻿using System;
 
-namespace ClientApp.Logging
+namespace ClientApp
 {
+    // Logger za konzolu
     internal class ConsoleLogger
     {
+        // obično ispis u beloj
         public void Log(string message)
         {
             Console.ForegroundColor = ConsoleColor.White;
@@ -11,6 +13,7 @@ namespace ClientApp.Logging
             Console.ResetColor();
         }
 
+        // ispis u drugoj boji
         public void Log(string message, ConsoleColor color)
         {
             Console.ForegroundColor = color;

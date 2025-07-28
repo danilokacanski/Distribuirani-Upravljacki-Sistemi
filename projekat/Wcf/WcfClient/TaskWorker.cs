@@ -3,9 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using System.Timers;
-using ClientApp.Logging;
-using ClientApp.ServiceProxy;
 using Timer = System.Timers.Timer;
 
 namespace ClientApp
@@ -18,9 +15,8 @@ namespace ClientApp
         private readonly CancellationTokenSource _cts = new CancellationTokenSource();
         private readonly Timer _heartbeatTimer;
 
-        // Za ispis promene liste
+        // za praćenje kad je lista aktivnih promenjena
         private readonly List<int> _lastPrintedList = new List<int>();
-        // Čuvamo aktuelnu listu aktivnih čvorova
         private int[] _currentActive = Array.Empty<int>();
 
         private bool _workingStarted = false;
@@ -38,6 +34,8 @@ namespace ClientApp
         {
             _id = id;
             _proxy = ServiceProxyFactory.CreateProxy(this);
+
+            // svaki interval šaljemo heartbeat servisu
             _heartbeatTimer = new Timer(HeartbeatInterval) { AutoReset = true };
             _heartbeatTimer.Elapsed += (_, __) => _proxy.SendHeartbeat(_id);
         }
@@ -54,10 +52,10 @@ namespace ClientApp
             {
                 while (!token.IsCancellationRequested)
                 {
-                    // štampaj WORKING... samo ako si aktivan i u serverovoj listi
+                    // radimo samo ako smo zaista aktivni
                     if (_state == WorkerState.Active && _currentActive.Contains(_id))
                     {
-                        // čekaj da timer bude uključen
+                        // čekamo da heartbeat timer stvarno krene
                         while (!_heartbeatTimer.Enabled && !token.IsCancellationRequested)
                             Thread.Sleep(100);
 
@@ -67,14 +65,14 @@ namespace ClientApp
                     }
                     else
                     {
-                        // ako nisi stvarno aktivan, samo kratko spavaj
+                        // inače samo kratko spavamo
                         Thread.Sleep(500);
                     }
                 }
             }
             catch (OperationCanceledException)
             {
-                // graceful stop
+                // zaustavljanje bez buke
             }
             finally
             {
@@ -97,27 +95,22 @@ namespace ClientApp
             if (newState == WorkerState.Active)
             {
                 StartHeartbeat();
-
                 if (!_workingStarted)
                 {
                     _workingStarted = true;
                     Task.Run(DoWork);
                 }
-
                 if (!_controlScheduled)
                 {
                     _controlScheduled = true;
+                    // zakazujemo svoj crash ili pauzu heartbeat‑a
                     int delayMs = _rnd.Next(10_000, 30_000);
                     bool willDie = _rnd.Next(5) == 3;
-
-                    // svako aktiviranje samostalno planira svoj "krash/pauzu"
                     Task.Run(async () =>
                     {
                         await Task.Delay(delayMs);
                         if (willDie)
-                        {
                             StopWork();
-                        }
                         else
                         {
                             StopHeartbeat();
@@ -131,7 +124,7 @@ namespace ClientApp
             {
                 StopHeartbeat();
             }
-            else if (newState == WorkerState.Dead)
+            else // Dead
             {
                 StopWork();
             }
@@ -139,12 +132,12 @@ namespace ClientApp
 
         public void UpdateActiveWorkers(int[] activeIds)
         {
-            // uvek ažuriramo listu
             _currentActive = activeIds.OrderBy(x => x).ToArray();
 
             // samo najmanji ID ispisuje kad se lista promeni
-            if (_currentActive.Length > 0 && _currentActive.First() == _id &&
-                !_lastPrintedList.SequenceEqual(_currentActive))
+            if (_currentActive.Length > 0
+                && _currentActive.First() == _id
+                && !_lastPrintedList.SequenceEqual(_currentActive))
             {
                 _lastPrintedList.Clear();
                 _lastPrintedList.AddRange(_currentActive);

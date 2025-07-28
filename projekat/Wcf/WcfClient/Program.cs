@@ -2,8 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ClientApp.ServiceProxy;
-using ClientApp.Logging;
 
 namespace ClientApp
 {
@@ -12,13 +10,15 @@ namespace ClientApp
         static async Task Main()
         {
             var rnd = new Random();
+            // nasumičan raspored ID-jeva 0–9
             var ids = Enumerable.Range(0, 10)
-                                     .OrderBy(x => rnd.Next())
-                                     .ToList();
+                                .OrderBy(x => rnd.Next())
+                                .ToList();
+
             var workers = new List<TaskWorker>();
             var logger = new ConsoleLogger();
 
-            // 1) Registracija
+            // registrujem sve radnike
             foreach (var id in ids)
             {
                 await Task.Delay(100);
@@ -27,13 +27,14 @@ namespace ClientApp
                     workers.Add(w);
             }
 
-            // [Main] u plavoj boji
+            // obaveštenja iz Main u plavoj
             logger.Log("[Main] Sve registracije završene; redosled je nasumičan.", ConsoleColor.Blue);
-            logger.Log("[Main] Čekam da se svi radnici ugase...", ConsoleColor.Blue);
 
-            // 2) Čekamo kraj
+            // čekamo dok ne postanu Dead
             while (workers.Any(w => w.CurrentState != WorkerState.Dead))
+            {
                 await Task.Delay(500);
+            }
 
             logger.Log("[Main] Svi radnici su završili. Izvršenje je gotovo.", ConsoleColor.Blue);
         }

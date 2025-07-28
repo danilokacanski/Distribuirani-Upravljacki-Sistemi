@@ -5,3 +5,10 @@ C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\p
 C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfClient\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
 C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfClient\obj\Debug\WcfClient.exe
 C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfClient\obj\Debug\WcfClient.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfClient\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfClient\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfClient\obj\Debug\WcfClient.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfClient\obj\Debug\WcfClient.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfClient\bin\Debug\WcfClient.exe.config
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfClient\bin\Debug\WcfClient.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfClient\bin\Debug\WcfClient.pdb

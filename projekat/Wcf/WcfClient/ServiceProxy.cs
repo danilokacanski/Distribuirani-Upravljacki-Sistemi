@@ -2,9 +2,9 @@
 using System.ServiceModel;
 using System.Runtime.Serialization;
 
-namespace ClientApp.ServiceProxy
+namespace ClientApp
 {
-    // DataContracts
+    // status odgovora sa servisa
     [DataContract]
     public enum MessageStatus
     {
@@ -12,6 +12,7 @@ namespace ClientApp.ServiceProxy
         [EnumMember] Error
     }
 
+    // vrsta greške prilikom registracije
     [DataContract]
     public enum MessageError
     {
@@ -19,6 +20,7 @@ namespace ClientApp.ServiceProxy
         [EnumMember] TooManyRegistred
     }
 
+    // omot za poruku servisa
     [DataContract]
     public class Message
     {
@@ -26,6 +28,7 @@ namespace ClientApp.ServiceProxy
         [DataMember] public MessageError? Error;
     }
 
+    // stanje radnika na servisu
     [DataContract]
     public enum WorkerState
     {
@@ -34,7 +37,7 @@ namespace ClientApp.ServiceProxy
         [EnumMember] Dead
     }
 
-    // Callback contract
+    // callback metode koje servis poziva na klijentu
     public interface ICallback
     {
         [OperationContract(IsOneWay = true)]
@@ -47,7 +50,7 @@ namespace ClientApp.ServiceProxy
         void UpdateActiveWorkers(int[] activeIds);
     }
 
-    // Service contract
+    // definicija WCF servisa
     [ServiceContract(CallbackContract = typeof(ICallback), SessionMode = SessionMode.Required)]
     public interface IService
     {
@@ -58,7 +61,7 @@ namespace ClientApp.ServiceProxy
         void SendHeartbeat(int workerId);
     }
 
-    // Factory za kreiranje duplex proxy-ja
+    // kreira duplex proxy za komunikaciju sa servisom
     public static class ServiceProxyFactory
     {
         private static readonly WSDualHttpBinding _binding = new WSDualHttpBinding(WSDualHttpSecurityMode.None)

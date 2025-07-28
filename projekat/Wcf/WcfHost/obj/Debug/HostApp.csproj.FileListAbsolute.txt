@@ -9,3 +9,14 @@ C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\p
 C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfHost\obj\Debug\HostApp.csproj.Up2Date
 C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfHost\obj\Debug\WcfHost.exe
 C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\projekat\Wcf\WcfHost\obj\Debug\WcfHost.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\bin\Debug\WcfHost.exe.config
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\bin\Debug\WcfHost.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\bin\Debug\WcfHost.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\bin\Debug\WcfService.dll
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\bin\Debug\WcfService.pdb
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\bin\Debug\WcfService.dll.config
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\obj\Debug\HostApp.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\obj\Debug\HostApp.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\obj\Debug\HostApp.csproj.Up2Date
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\obj\Debug\WcfHost.exe
+C:\Users\Korisnik\Desktop\Master 1. semestar\Distribuirani upravljacki sistemi\Domaci i Projekat\projekat\Wcf\WcfHost\obj\Debug\WcfHost.pdb

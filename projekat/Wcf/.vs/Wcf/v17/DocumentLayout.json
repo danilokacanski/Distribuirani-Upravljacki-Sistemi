@@ -1,38 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\",
+  "WorkspaceRootPath": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\projekat\\wcf\\wcfclient\\taskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|solutionrelative:wcfclient\\taskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\projekat\\wcf\\wcfclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\domaci i projekat\\projekat\\wcf\\wcfclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|solutionrelative:wcfclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\projekat\\wcf\\wcfclient\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|solutionrelative:wcfclient\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{969F7032-249C-4317-B8DD-E2082E797632}|WcfService\\WcfService.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\projekat\\wcf\\wcfservice\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969F7032-249C-4317-B8DD-E2082E797632}|WcfService\\WcfService.csproj|solutionrelative:wcfservice\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA1C0D43-ECA0-48D4-B472-F4DC3F5D570C}|WcfHost\\HostApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\projekat\\wcf\\wcfhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA1C0D43-ECA0-48D4-B472-F4DC3F5D570C}|WcfHost\\HostApp.csproj|solutionrelative:wcfhost\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\projekat\\wcf\\wcfclient\\serviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|solutionrelative:wcfclient\\serviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\projekat\\wcf\\wcfclient\\taskworkerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\domaci i projekat\\projekat\\wcf\\wcfclient\\taskworkerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|solutionrelative:wcfclient\\taskworkerfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{969F7032-249C-4317-B8DD-E2082E797632}|WcfService\\WcfService.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\projekat\\wcf\\wcfservice\\workercoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{969F7032-249C-4317-B8DD-E2082E797632}|WcfService\\WcfService.csproj|solutionrelative:wcfservice\\workercoordinator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\domaci i projekat\\projekat\\wcf\\wcfclient\\taskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|solutionrelative:wcfclient\\taskworker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\domaci i projekat\\projekat\\wcf\\wcfclient\\serviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|solutionrelative:wcfclient\\serviceproxy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|c:\\users\\korisnik\\desktop\\master 1. semestar\\distribuirani upravljacki sistemi\\domaci i projekat\\projekat\\wcf\\wcfclient\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEB0EAF7-BDE2-4546-B6E2-0B797B81D10C}|WcfClient\\ClientApp.csproj|solutionrelative:wcfclient\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,110 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfService\\IService.cs",
-              "RelativeDocumentMoniker": "WcfService\\IService.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfService\\IService.cs",
-              "RelativeToolTip": "WcfService\\IService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAASAAAA",
+              "DocumentIndex": 1,
+              "Title": "TaskWorkerFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\WcfClient\\TaskWorkerFactory.cs",
+              "RelativeDocumentMoniker": "WcfClient\\TaskWorkerFactory.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\WcfClient\\TaskWorkerFactory.cs",
+              "RelativeToolTip": "WcfClient\\TaskWorkerFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:37:35.716Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfHost\\Program.cs",
-              "RelativeDocumentMoniker": "WcfHost\\Program.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfHost\\Program.cs",
-              "RelativeToolTip": "WcfHost\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:37:18.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ServiceProxy.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfClient\\ServiceProxy.cs",
-              "RelativeDocumentMoniker": "WcfClient\\ServiceProxy.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfClient\\ServiceProxy.cs",
-              "RelativeToolTip": "WcfClient\\ServiceProxy.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAkwFAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:36:36.142Z",
+              "WhenOpened": "2025-07-27T15:07:46.667Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ConsoleLogger.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfClient\\ConsoleLogger.cs",
-              "RelativeDocumentMoniker": "WcfClient\\ConsoleLogger.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfClient\\ConsoleLogger.cs",
-              "RelativeToolTip": "WcfClient\\ConsoleLogger.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Title": "TaskWorker.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\WcfClient\\TaskWorker.cs",
+              "RelativeDocumentMoniker": "WcfClient\\TaskWorker.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\WcfClient\\TaskWorker.cs",
+              "RelativeToolTip": "WcfClient\\TaskWorker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:36:16.02Z",
+              "WhenOpened": "2025-07-27T15:07:44.725Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TaskWorkerFactory.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfClient\\TaskWorkerFactory.cs",
-              "RelativeDocumentMoniker": "WcfClient\\TaskWorkerFactory.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfClient\\TaskWorkerFactory.cs",
-              "RelativeToolTip": "WcfClient\\TaskWorkerFactory.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "ServiceProxy.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\WcfClient\\ServiceProxy.cs",
+              "RelativeDocumentMoniker": "WcfClient\\ServiceProxy.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\WcfClient\\ServiceProxy.cs",
+              "RelativeToolTip": "WcfClient\\ServiceProxy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:36:59.985Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "WorkerCoordinator.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfService\\WorkerCoordinator.cs",
-              "RelativeDocumentMoniker": "WcfService\\WorkerCoordinator.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfService\\WorkerCoordinator.cs",
-              "RelativeToolTip": "WcfService\\WorkerCoordinator.cs",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAQwIUAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:11:42.988Z",
+              "WhenOpened": "2025-07-27T15:07:42.956Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TaskWorker.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfClient\\TaskWorker.cs",
-              "RelativeDocumentMoniker": "WcfClient\\TaskWorker.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfClient\\TaskWorker.cs",
-              "RelativeToolTip": "WcfClient\\TaskWorker.cs",
-              "ViewState": "AQIAAHYAAAAAAAAAAAAQwH8AAAARAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\WcfClient\\Program.cs",
+              "RelativeDocumentMoniker": "WcfClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\WcfClient\\Program.cs",
+              "RelativeToolTip": "WcfClient\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:05:20.128Z",
+              "WhenOpened": "2025-07-27T15:07:32.152Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfClient\\Program.cs",
-              "RelativeDocumentMoniker": "WcfClient\\Program.cs",
-              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\projekat\\Wcf\\WcfClient\\Program.cs",
-              "RelativeToolTip": "WcfClient\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "DocumentIndex": 4,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\WcfClient\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "WcfClient\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\Korisnik\\Desktop\\Master 1. semestar\\Distribuirani upravljacki sistemi\\Domaci i Projekat\\projekat\\Wcf\\WcfClient\\ConsoleLogger.cs",
+              "RelativeToolTip": "WcfClient\\ConsoleLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:04:37.804Z",
+              "WhenOpened": "2025-07-27T15:07:27.608Z",
               "EditorCaption": ""
             }
           ]

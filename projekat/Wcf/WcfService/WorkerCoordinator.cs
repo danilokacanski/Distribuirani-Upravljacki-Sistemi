@@ -9,8 +9,10 @@ namespace WcfService
     [ServiceBehavior(InstanceContextMode = InstanceContextMode.Single)]
     public class WorkerCoordinator : IService
     {
+        // ID radnika → detalji
         private readonly ConcurrentDictionary<int, WorkerInfo> _workers
             = new ConcurrentDictionary<int, WorkerInfo>();
+        // proverava „pulse” svakih sekundu
         private readonly Timer _monitorTimer;
         private readonly Random _rnd = new Random();
         private const int CheckInterval = 1000;
@@ -23,12 +25,12 @@ namespace WcfService
             _monitorTimer = new Timer(CheckInterval) { AutoReset = true };
             _monitorTimer.Elapsed += MonitorWorkers;
             _monitorTimer.Start();
-            Console.WriteLine("[Service] Coordinator started.");
+            Console.WriteLine("[Service] Koordinator pokrenut.");
         }
 
         public Message Register(int id)
         {
-            Console.WriteLine($"[Service] Register request from {id}.");
+            Console.WriteLine($"[Service] Radnik {id} zahteva registraciju.");
             lock (_sync)
             {
                 var info = new WorkerInfo
@@ -40,19 +42,19 @@ namespace WcfService
 
                 if (!_workers.TryAdd(id, info))
                 {
-                    Console.WriteLine($"[Service] Worker {id} already registered.");
+                    Console.WriteLine($"[Service] Radnik {id} je već registrovan.");
                     return new Message { Status = MessageStatus.Error, Error = MessageError.AlreadyRegistred };
                 }
 
-                // aktiviraj do 5 klijenata
+                // aktiviraj do MaxActive radnika
                 if (_workers.Values.Count(w => w.State == WorkerState.Active) < MaxActive)
                 {
                     SetState(id, WorkerState.Active);
-                    Console.WriteLine($"[Service] Worker {id} activated on registration.");
+                    Console.WriteLine($"[Service] Radnik {id} aktiviran.");
                 }
                 else
                 {
-                    Console.WriteLine($"[Service] Worker {id} registered as Standby.");
+                    Console.WriteLine($"[Service] Radnik {id} ide u Standby.");
                 }
 
                 return new Message { Status = MessageStatus.Ok };
@@ -65,7 +67,7 @@ namespace WcfService
             {
                 if (info.State == WorkerState.Dead)
                 {
-                    Console.WriteLine($"[Service] Late heartbeat from dead {id}.");
+                    Console.WriteLine($"[Service] Kasni heartbeat od mrtvog {id}.");
                     info.Callback.ShutdownWorker();
                 }
                 else
@@ -88,7 +90,7 @@ namespace WcfService
                         DateTime.UtcNow - info.LastHeartbeat > TimeSpan.FromSeconds(HeartbeatTimeoutSeconds))
                     {
                         SetState(id, WorkerState.Dead);
-                        Console.WriteLine($"[Service] Worker {id} timed out and marked Dead.");
+                        Console.WriteLine($"[Service] Radnik {id} nije slao heartbeat → označen Dead.");
 
                         var standby = _workers
                             .Where(x => x.Value.State == WorkerState.Standby)
@@ -99,7 +101,7 @@ namespace WcfService
                         {
                             var replacer = standby[_rnd.Next(standby.Count)];
                             SetState(replacer, WorkerState.Active);
-                            Console.WriteLine($"[Service] Replaced with {replacer}.");
+                            Console.WriteLine($"[Service] Standby {replacer} preuzima posao.");
                         }
                     }
                 }
@@ -110,8 +112,6 @@ namespace WcfService
         {
             var info = _workers[id];
             info.State = newState;
-
-            // resetuj mu heartbeat kada ga aktiviraš
             if (newState == WorkerState.Active)
                 info.LastHeartbeat = DateTime.UtcNow;
 
@@ -121,17 +121,17 @@ namespace WcfService
             }
             catch
             {
-                // ignore
+                // ignorisanje neuspelih callback-a
             }
 
-            // server-side takeover lista
+            // obavesti sve o novoj listi aktivnih
             var actives = _workers
                 .Where(x => x.Value.State == WorkerState.Active)
                 .Select(x => x.Key)
                 .OrderBy(x => x)
                 .ToArray();
 
-            Console.WriteLine($"[Service] Active workers: [{string.Join(", ", actives)}]");
+            Console.WriteLine($"[Service] Trenutno aktivni radnici: [{string.Join(", ", actives)}]");
             BroadcastActiveList(actives);
         }
 
@@ -145,7 +145,7 @@ namespace WcfService
                 }
                 catch
                 {
-                    // ignore
+                    // ignorisanje neuspelih callback-a
                 }
             }
         }
